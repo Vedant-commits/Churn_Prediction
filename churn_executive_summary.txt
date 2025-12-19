@@ -1,0 +1,43 @@
+
+    CUSTOMER CHURN PREDICTION - EXECUTIVE SUMMARY
+    ==============================================
+    
+    CURRENT STATE:
+    - Total Customers: 5,000
+    - Current Churn Rate: 2.3%
+    - Customers at Risk: 98
+    - Annual Revenue at Risk: $16,428
+    
+    MODEL PERFORMANCE:
+    - Best Model: Gradient Boosting
+    - Accuracy: 96.9%
+    - Precision: 10.0%
+    - Recall: 4.3%
+    - AUC-ROC: 0.875
+    
+    KEY CHURN DRIVERS:
+    1. Low login frequency (< 5 times/month)
+    2. High support ticket volume (> 3 tickets)
+    3. Payment failures or delays
+    4. Low content engagement (< 20% watched)
+    5. No social connections in platform
+    
+    RETENTION STRATEGY IMPACT:
+    - Addressable Churners: 68 (70% reachable)
+    - Expected Save Rate: 45% with intervention
+    - Potential Revenue Saved: $7,393
+    - ROI on Retention Program: 5:1
+    
+    RECOMMENDED ACTIONS:
+    1. Implement automated early warning system
+    2. Launch targeted retention campaigns for high-risk segments
+    3. Improve onboarding for new customers (< 90 days)
+    4. Develop engagement programs for inactive users
+    5. Create VIP program for high-value customers
+    
+    EXPECTED OUTCOMES:
+    - Reduce churn rate from 2.3% to 1.6%
+    - Increase customer lifetime value by 25%
+    - Save $7,393 in annual revenue
+    - Improve NPS score by 15 points
+    
